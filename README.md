@@ -1,6 +1,6 @@
 ## Text-Generation-using-RNN
 
-#### This project is about subword segmentation for handing the oov rates of the two language English and Bengali. We aimed to achive the lowest perplexity rate and oov rate. The oov rate for Bengali is more when comapred to English since Bengali is morphologically rich langauge.
+#### This project is about subword segmentation for handling the oov rates of the two languages English and Bengali. We aimed to achive the lowest perplexity rate and oov rate. The oov rate for Bengali is more when compared to English since Bengali is morphologically rich langauge.
 #### We have considered three different models for two languages English and Bengali:
 #### 1. The S1 model is pure character-level, ie words are segmented as characters and there are no meaningful units.
 #### 2. The S2 model is near the character-level, the words with high frequency remain as it is whereas low frequency words are segmented into subwords.
